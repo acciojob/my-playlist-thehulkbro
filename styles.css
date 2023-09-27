@@ -1,8 +1,9 @@
 /*  your css code here. If applicable */
-.main{
-	text-align:center;
+body{
 	background-color: rgb(204, 204, 204);
+	text-align:center;
 }
+
 .main>h1 , .main>h2{
 	text-align:center;
 }
@@ -14,12 +15,12 @@
 	border:1px solid black;
 }
 li{
-	list-style-type: none;
+	list-style-type:none;
 }
 .videoaudio{
 	background-color: rgb(255, 255, 255);
 	border-radius:5px;
-	margin: 0px 50px 10px 50px;
+	margin: 0px 40px 10px 50px;
 	padding:10px;
 	border:1px solid black;
 }
