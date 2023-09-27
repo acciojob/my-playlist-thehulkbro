@@ -16,6 +16,7 @@ body{
 }
 li{
 	list-style-type:none;
+	
 }
 .videoaudio{
 	background-color: rgb(255, 255, 255);
@@ -26,8 +27,13 @@ li{
 }
 .player_one , .player_two{
 	width:100%;
+	background-color: rgb(255, 255, 255);
 }
 .pp{
 	text-align : left;
+}
+.aa{
+	text-decoration-line:none;
+	color:black;
 }
 
