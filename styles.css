@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+.main{
+	text-align:center;
+	background-color: rgb(204, 204, 204);
+}
+.main>h1 , .main>h2{
+	text-align:center;
+}
+.playlist{
+	background-color: rgb(255, 255, 255);
+	margin:0px 22px 0px 22px;
+	border-radius:5px;
+	text-align:left;
+	border:1px solid black;
+}
+li{
+	list-style-type: none;
+}
+.videoaudio{
+	background-color: rgb(255, 255, 255);
+	border-radius:5px;
+	margin: 0px 50px 10px 50px;
+	padding:10px;
+	border:1px solid black;
+}
+.player_one , .player_two{
+	width:100%;
+}
+.pp{
+	text-align : left;
+}
+
